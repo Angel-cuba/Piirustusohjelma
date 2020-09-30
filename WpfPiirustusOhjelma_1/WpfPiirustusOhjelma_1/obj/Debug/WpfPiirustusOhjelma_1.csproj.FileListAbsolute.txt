@@ -1,0 +1,17 @@
+C:\Users\araoz\Desktop\WPFprojekti\WpfPiirustusOhjelma_1\WpfPiirustusOhjelma_1\bin\Debug\WpfPiirustusOhjelma_1.exe.config
+C:\Users\araoz\Desktop\WPFprojekti\WpfPiirustusOhjelma_1\WpfPiirustusOhjelma_1\bin\Debug\WpfPiirustusOhjelma_1.exe
+C:\Users\araoz\Desktop\WPFprojekti\WpfPiirustusOhjelma_1\WpfPiirustusOhjelma_1\bin\Debug\WpfPiirustusOhjelma_1.pdb
+C:\Users\araoz\Desktop\WPFprojekti\WpfPiirustusOhjelma_1\WpfPiirustusOhjelma_1\obj\Debug\WpfPiirustusOhjelma_1.csprojAssemblyReference.cache
+C:\Users\araoz\Desktop\WPFprojekti\WpfPiirustusOhjelma_1\WpfPiirustusOhjelma_1\obj\Debug\MainWindow.g.cs
+C:\Users\araoz\Desktop\WPFprojekti\WpfPiirustusOhjelma_1\WpfPiirustusOhjelma_1\obj\Debug\App.g.cs
+C:\Users\araoz\Desktop\WPFprojekti\WpfPiirustusOhjelma_1\WpfPiirustusOhjelma_1\obj\Debug\WpfPiirustusOhjelma_1_MarkupCompile.cache
+C:\Users\araoz\Desktop\WPFprojekti\WpfPiirustusOhjelma_1\WpfPiirustusOhjelma_1\obj\Debug\WpfPiirustusOhjelma_1_MarkupCompile.lref
+C:\Users\araoz\Desktop\WPFprojekti\WpfPiirustusOhjelma_1\WpfPiirustusOhjelma_1\obj\Debug\MainWindow.baml
+C:\Users\araoz\Desktop\WPFprojekti\WpfPiirustusOhjelma_1\WpfPiirustusOhjelma_1\obj\Debug\WpfPiirustusOhjelma_1.g.resources
+C:\Users\araoz\Desktop\WPFprojekti\WpfPiirustusOhjelma_1\WpfPiirustusOhjelma_1\obj\Debug\WpfPiirustusOhjelma_1.Properties.Resources.resources
+C:\Users\araoz\Desktop\WPFprojekti\WpfPiirustusOhjelma_1\WpfPiirustusOhjelma_1\obj\Debug\WpfPiirustusOhjelma_1.csproj.GenerateResource.cache
+C:\Users\araoz\Desktop\WPFprojekti\WpfPiirustusOhjelma_1\WpfPiirustusOhjelma_1\obj\Debug\WpfPiirustusOhjelma_1.csproj.CoreCompileInputs.cache
+C:\Users\araoz\Desktop\WPFprojekti\WpfPiirustusOhjelma_1\WpfPiirustusOhjelma_1\obj\Debug\WpfPiirustusOhjelma_1.exe
+C:\Users\araoz\Desktop\WPFprojekti\WpfPiirustusOhjelma_1\WpfPiirustusOhjelma_1\obj\Debug\WpfPiirustusOhjelma_1.pdb
+C:\Users\araoz\Desktop\WPFprojekti\WpfPiirustusOhjelma_1\WpfPiirustusOhjelma_1\obj\Debug\Window1.g.cs
+C:\Users\araoz\Desktop\WPFprojekti\WpfPiirustusOhjelma_1\WpfPiirustusOhjelma_1\obj\Debug\Window1.baml
